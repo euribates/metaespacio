@@ -43,6 +43,8 @@ INSTALLED_APPS = (
     'registro',
     'espacios',
     'captcha',
+    'bibliotheca',
+    'tastypie',
 )
 
 MIDDLEWARE_CLASSES = (
